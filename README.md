@@ -1,0 +1,3 @@
+# roroBaseFrame
+基于springmvc的web工程基础底包
+此包基于spring3.0的基础上封装了一些公用框架类,开源代码供交流学习使用
